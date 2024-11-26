@@ -16,7 +16,7 @@ The **To-Do App** is a productivity tool designed to help you organize your task
 - **User Profile** management for a personalized experience  
 
 ### 📝 **Task Management**  
-- Add, edit, and delete tasks with titles, descriptions, and due dates  
+- Add, edit, and delete tasks with titles  
 - Mark tasks as **completed**   
 - Organize tasks into categories or labels (Work, Personal, College)  
 
